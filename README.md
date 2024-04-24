@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me EASURAJA
 
--I’m looking to collaborate on ML/AI
+- 👋 Hi there! I'm EASURAJA, a passionate technologist with a focus on cutting-edge fields like Artificial Intelligence, Machine Learning, and Deep Learning.
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
                                                
 - 🌱 I’m currently learning Datascience and ML/AI
